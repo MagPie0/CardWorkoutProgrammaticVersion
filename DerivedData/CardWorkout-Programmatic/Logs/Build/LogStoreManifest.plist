@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>556A62E9-15E8-44C4-AE3D-1EEDCC3742CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>556A62E9-15E8-44C4-AE3D-1EEDCC3742CD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardWorkout-Programmatic project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardWorkout-Programmatic</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CardWorkout-Programmatic</string>
+			<key>timeStartedRecording</key>
+			<real>744508525.82830799</real>
+			<key>timeStoppedRecording</key>
+			<real>744508535.15023899</real>
+			<key>title</key>
+			<string>Build CardWorkout-Programmatic</string>
+			<key>uniqueIdentifier</key>
+			<string>556A62E9-15E8-44C4-AE3D-1EEDCC3742CD</string>
+		</dict>
+		<key>EC5C28F4-A357-48AF-921C-75D50DA8DA5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC5C28F4-A357-48AF-921C-75D50DA8DA5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>CardWorkout-Programmatic project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>CardWorkout-Programmatic</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build CardWorkout-Programmatic</string>
+			<key>timeStartedRecording</key>
+			<real>744508791.06154001</real>
+			<key>timeStoppedRecording</key>
+			<real>744508812.28089404</real>
+			<key>title</key>
+			<string>Build CardWorkout-Programmatic</string>
+			<key>uniqueIdentifier</key>
+			<string>EC5C28F4-A357-48AF-921C-75D50DA8DA5D</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

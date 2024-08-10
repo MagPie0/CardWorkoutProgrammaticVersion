@@ -1,0 +1,27 @@
+{
+  "" : {
+    "dependencies" : "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/DerivedData/CardWorkout-Programmatic/Index.noindex/Build/Intermediates.noindex/CardWorkout-Programmatic.build/Debug-iphonesimulator/CardWorkout-Programmatic.build/Objects-normal/x86_64/CardWorkout-Programmatic-master.d",
+    "diagnostics" : "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/DerivedData/CardWorkout-Programmatic/Index.noindex/Build/Intermediates.noindex/CardWorkout-Programmatic.build/Debug-iphonesimulator/CardWorkout-Programmatic.build/Objects-normal/x86_64/CardWorkout-Programmatic-master.dia",
+    "emit-module-dependencies" : "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/DerivedData/CardWorkout-Programmatic/Index.noindex/Build/Intermediates.noindex/CardWorkout-Programmatic.build/Debug-iphonesimulator/CardWorkout-Programmatic.build/Objects-normal/x86_64/CardWorkout-Programmatic-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/DerivedData/CardWorkout-Programmatic/Index.noindex/Build/Intermediates.noindex/CardWorkout-Programmatic.build/Debug-iphonesimulator/CardWorkout-Programmatic.build/Objects-normal/x86_64/CardWorkout-Programmatic-master-emit-module.dia",
+    "swift-dependencies" : "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/DerivedData/CardWorkout-Programmatic/Index.noindex/Build/Intermediates.noindex/CardWorkout-Programmatic.build/Debug-iphonesimulator/CardWorkout-Programmatic.build/Objects-normal/x86_64/CardWorkout-Programmatic-master.swiftdeps"
+  },
+  "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/CardWorkout-Programmatic/AppDelegate.swift" : {
+
+  },
+  "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/CardWorkout-Programmatic/CardSelectionViewController.swift" : {
+
+  },
+  "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/CardWorkout-Programmatic/CWButton.swift" : {
+
+  },
+  "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/CardWorkout-Programmatic/RulesViewController.swift" : {
+
+  },
+  "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/CardWorkout-Programmatic/SceneDelegate.swift" : {
+
+  },
+  "/Users/maggiehillebrecht/Desktop/School work/Testing Swift/CardWorkout-Programmatic/DerivedData/CardWorkout-Programmatic/Index.noindex/Build/Intermediates.noindex/CardWorkout-Programmatic.build/Debug-iphonesimulator/CardWorkout-Programmatic.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

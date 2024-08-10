@@ -8,13 +8,28 @@
 import UIKit
 
 class CWButton: UIButton {
-
-    /*
-    // Only override draw() if you perform custom drawing.
-    // An empty implementation adversely affects performance during animation.
-    override func draw(_ rect: CGRect) {
-        // Drawing code
+    override init(frame: CGRect) {
+        super.init(frame: frame) //super gives us everything apple gives us
+        configure() //sets the buttons with the style we put
     }
-    */
+    
+    required init?(coder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+    
+    init(backgroundColor: UIColor, title: String) {
+        super.init(frame: .zero) //frame is like constraint
+        self.backgroundColor = backgroundColor
+        setTitle(title, for: .normal)
+        configure()
+    }
+    
+    func configure() {
+        layer.cornerRadius = 8
+        titleLabel?.font = .systemFont(ofSize: 19, weight: .bold)
+        setTitleColor(.white, for: .normal)
+        translatesAutoresizingMaskIntoConstraints = false //tamic for short, basically "use autolayout"
+        
+    }
 
 }
